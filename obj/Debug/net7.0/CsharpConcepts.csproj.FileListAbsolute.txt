@@ -1,0 +1,15 @@
+/Users/rameshsengamalai/Documents/CsharpConcepts/bin/Debug/net7.0/CsharpConcepts
+/Users/rameshsengamalai/Documents/CsharpConcepts/bin/Debug/net7.0/CsharpConcepts.deps.json
+/Users/rameshsengamalai/Documents/CsharpConcepts/bin/Debug/net7.0/CsharpConcepts.runtimeconfig.json
+/Users/rameshsengamalai/Documents/CsharpConcepts/bin/Debug/net7.0/CsharpConcepts.dll
+/Users/rameshsengamalai/Documents/CsharpConcepts/bin/Debug/net7.0/CsharpConcepts.pdb
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/CsharpConcepts.csproj.AssemblyReference.cache
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/CsharpConcepts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/CsharpConcepts.AssemblyInfoInputs.cache
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/CsharpConcepts.AssemblyInfo.cs
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/CsharpConcepts.csproj.CoreCompileInputs.cache
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/CsharpConcepts.dll
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/refint/CsharpConcepts.dll
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/CsharpConcepts.pdb
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/CsharpConcepts.genruntimeconfig.cache
+/Users/rameshsengamalai/Documents/CsharpConcepts/obj/Debug/net7.0/ref/CsharpConcepts.dll
