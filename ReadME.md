@@ -2,19 +2,19 @@
 
 ## Dotnet CLI
 
-### To create new dotnet core console application
+##### To create new dotnet core console application
 ```sh
 dotnet new console
 ```
 
-#### To build the application
+##### To build the application
 ```sh
 dotnet build
 ```
 
-### To execute the application
+##### To execute the application
 ```sh
 dotnet run
 ```
 
-### ILspy for decompile the DLL
+##### ILspy for decompile the DLL
