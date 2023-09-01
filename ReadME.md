@@ -17,4 +17,4 @@ dotnet build
 dotnet run
 ```
 
-##### ILspy for decompile the DLL
+##### ILspy for decompile the dll files.
